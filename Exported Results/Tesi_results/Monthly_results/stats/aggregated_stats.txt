@@ -1,0 +1,660 @@
+
+
+============ ETF_N ============
+
+▸Number of nodes: 54 - Number of links:534 - Size/Order ratio: 9.88888888888889
+▸Standard deviation: 20.554954946180402
+▸Mean: 19.77777777777778
+▸Median: 13.0
+▸Min: 1
+▸Max: 90
+▸Standard deviation in_degree: 8.776371195318978
+▸Mean in_degree: 9.88888888888889
+▸Median in_degree: 7.0
+▸Min in_degree: 1
+▸Max in_degree: 40
+▸Standard deviation out_degree: 11.959293096083258
+▸Mean out_degree: 9.88888888888889
+▸Median out_degree: 6.0
+▸Min out_degree: 0
+▸Max out_degree: 50
+▸Standard deviation weighted: 59099554262.31305
+▸Mean weighted: 23924197073.185184
+▸Median weighted: 1523020135.5
+▸Min weighted: 343768
+▸Max weighted: 351687915851
+▸Standard deviation in_degree weighted: 29396646338.068764
+▸Mean in_degree weighted: 11962098536.592592
+▸Median in_degree weighted: 1400865398.0
+▸Min in_degree weighted: 343768
+▸Max in_degree weighted: 166021593413
+▸Standard deviation out_degree weighted: 32350970816.832855
+▸Mean out_degree weighted: 11962098536.592592
+▸Median out_degree weighted: 27042405.0
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 185666322438
+▸Density: 0.18658280922431866
+▸Avg. Clustering coeff: 0.7388841530318293
+▸Transitivity: 0.3678924072182499
+▸Assortativity coefficient: -0.5036345682127595
+▸Assortativity weighted coefficient: -0.5036345682127595
+▸Pearson Assortativity coefficient: -0.50363456821276
+▸Average Shortest Path Length: 1.6844863731656186
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [54]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [49, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 3.288361523232475e-16, 'test': 0.5555555555555556, 'exp': 2.235898662663657}
+▸Power Law K-test on Weighted Degree: {'p-value': 3.1464701430986034e-56, 'test': 0.9074074074074074, 'exp': 3.2767333112286647}
+▸Power Law K-test on In-Degree: {'p-value': 5.029758126310715e-14, 'test': 0.5185185185185185, 'exp': 2.6382991987948925}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 5.029758126310643e-14, 'test': 0.5185185185185186, 'exp': 1.5293458018401886}
+▸Power Law K-test on Out-Degree: {'p-value': 5.029758126310643e-14, 'test': 0.5185185185185186, 'exp': 2.0194003228600117}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 6.311433999152762e-33, 'test': 0.7592592592592593, 'exp': 1.1775985008744265}
+
+
+============ ETF_S ============
+
+▸Number of nodes: 54 - Number of links:711 - Size/Order ratio: 13.166666666666666
+▸Standard deviation: 23.5246128003716
+▸Mean: 26.333333333333332
+▸Median: 18.5
+▸Min: 2
+▸Max: 100
+▸Standard deviation in_degree: 11.60419783558551
+▸Mean in_degree: 13.166666666666666
+▸Median in_degree: 9.5
+▸Min in_degree: 1
+▸Max in_degree: 49
+▸Standard deviation out_degree: 11.940826325398646
+▸Mean out_degree: 13.166666666666666
+▸Median out_degree: 9.0
+▸Min out_degree: 1
+▸Max out_degree: 51
+▸Standard deviation weighted: 92215894410.40814
+▸Mean weighted: 39198461455.22222
+▸Median weighted: 3031078011.0
+▸Min weighted: 1777703
+▸Max weighted: 404624150681
+▸Standard deviation in_degree weighted: 46759284684.74178
+▸Mean in_degree weighted: 19599230727.61111
+▸Median in_degree weighted: 1395734464.0
+▸Min in_degree weighted: 1105997
+▸Max in_degree weighted: 198478391069
+▸Standard deviation out_degree weighted: 45660323804.4941
+▸Mean out_degree weighted: 19599230727.61111
+▸Median out_degree weighted: 1673599984.5
+▸Min out_degree weighted: 40402
+▸Max out_degree weighted: 206145759612
+▸Density: 0.24842767295597484
+▸Avg. Clustering coeff: 0.7783506561773424
+▸Transitivity: 0.4648006234575919
+▸Assortativity coefficient: -0.48403984136512446
+▸Assortativity weighted coefficient: -0.48403984136512446
+▸Pearson Assortativity coefficient: -0.4840398413651238
+▸Average Shortest Path Length: 1.779874213836478
+▸Diameter: 3
+▸Is DAG?: False
+▸Weakly Connected Components: [54]
+▸Is Weakly connected?:  True
+▸Strongly Connected Components: [54]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 2.9750935145280497e-21, 'test': 0.6296296296296297, 'exp': 2.331157943175454}
+▸Power Law K-test on Weighted Degree: {'p-value': 2.9750935145280497e-21, 'test': 0.6296296296296297, 'exp': 1.503812601788683}
+▸Power Law K-test on In-Degree: {'p-value': 2.9750935145280497e-21, 'test': 0.6296296296296297, 'exp': 2.3602920262459275}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 2.210547031204938e-17, 'test': 0.5740740740740741, 'exp': 1.52409242262393}
+▸Power Law K-test on Out-Degree: {'p-value': 1.3036280754666211e-18, 'test': 0.5925925925925926, 'exp': 2.4140635154420917}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 1.132018754310642e-22, 'test': 0.6481481481481481, 'exp': 1.4652301565483068}
+
+
+============ Government Bonds_S ============
+
+▸Number of nodes: 72 - Number of links:1311 - Size/Order ratio: 18.208333333333332
+▸Standard deviation: 31.895989821083568
+▸Mean: 36.416666666666664
+▸Median: 26.0
+▸Min: 1
+▸Max: 120
+▸Standard deviation in_degree: 16.84977538590813
+▸Mean in_degree: 18.208333333333332
+▸Median in_degree: 12.0
+▸Min in_degree: 0
+▸Max in_degree: 70
+▸Standard deviation out_degree: 15.71882938460184
+▸Mean out_degree: 18.208333333333332
+▸Median out_degree: 13.5
+▸Min out_degree: 1
+▸Max out_degree: 61
+▸Standard deviation weighted: 8589889872982.32
+▸Mean weighted: 3615100351640.6113
+▸Median weighted: 65823026240.0
+▸Min weighted: 1200
+▸Max weighted: 42842208413624
+▸Standard deviation in_degree weighted: 4518698556421.8955
+▸Mean in_degree weighted: 1807550175820.3057
+▸Median in_degree weighted: 22575736623.5
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 24265984595175
+▸Standard deviation out_degree weighted: 4134340577324.621
+▸Mean out_degree weighted: 1807550175820.3057
+▸Median out_degree weighted: 38111465042.0
+▸Min out_degree weighted: 1200
+▸Max out_degree weighted: 18665169982494
+▸Density: 0.2564553990610329
+▸Avg. Clustering coeff: 0.7025447544506821
+▸Transitivity: 0.5389488990444536
+▸Assortativity coefficient: -0.5135573610307387
+▸Assortativity weighted coefficient: -0.5135573610307387
+▸Pearson Assortativity coefficient: -0.5135573610307381
+▸Average Shortest Path Length: 1.6158059467918622
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [72]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [64, 1, 1, 1, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 1.5309629270952582e-30, 'test': 0.6527777777777778, 'exp': 2.1311178733421308}
+▸Power Law K-test on Weighted Degree: {'p-value': 3.604432504255716e-17, 'test': 0.5, 'exp': 1.3188246857336134}
+▸Power Law K-test on In-Degree: {'p-value': 4.636102277458523e-25, 'test': 0.5972222222222222, 'exp': 2.1398806324595907}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 4.74749627958655e-62, 'test': 0.8611111111111112, 'exp': 2.357834497696727}
+▸Power Law K-test on Out-Degree: {'p-value': 4.276200295837493e-29, 'test': 0.6388888888888888, 'exp': 2.220426242045005}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 3.604432504255716e-17, 'test': 0.5, 'exp': 1.324424293825787}
+
+
+============ Government Bonds_N ============
+
+▸Number of nodes: 61 - Number of links:701 - Size/Order ratio: 11.491803278688524
+▸Standard deviation: 24.009896732204094
+▸Mean: 22.983606557377048
+▸Median: 15.0
+▸Min: 1
+▸Max: 96
+▸Standard deviation in_degree: 10.250346576819112
+▸Mean in_degree: 11.491803278688524
+▸Median in_degree: 9.0
+▸Min in_degree: 0
+▸Max in_degree: 45
+▸Standard deviation out_degree: 13.993702273007065
+▸Mean out_degree: 11.491803278688524
+▸Median out_degree: 6.0
+▸Min out_degree: 0
+▸Max out_degree: 56
+▸Standard deviation weighted: 357067958893.2291
+▸Mean weighted: 133322394277.2459
+▸Median weighted: 1893596115.0
+▸Min weighted: 41472
+▸Max weighted: 2206247253413
+▸Standard deviation in_degree weighted: 166026265247.77795
+▸Mean in_degree weighted: 66661197138.62295
+▸Median in_degree weighted: 1558596271.0
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 954387244619
+▸Standard deviation out_degree weighted: 193949608154.1998
+▸Mean out_degree weighted: 66661197138.62295
+▸Median out_degree weighted: 200666759.0
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 1251860008794
+▸Density: 0.19153005464480874
+▸Avg. Clustering coeff: 0.7389890304712912
+▸Transitivity: 0.38624281219485734
+▸Assortativity coefficient: -0.5502684930118241
+▸Assortativity weighted coefficient: -0.5502684930118241
+▸Pearson Assortativity coefficient: -0.550268493011823
+▸Average Shortest Path Length: 1.5587431693989071
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [61]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [51, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 2.222140165413198e-23, 'test': 0.6229508196721312, 'exp': 2.6594436946572015}
+▸Power Law K-test on Weighted Degree: {'p-value': 2.495749487485952e-29, 'test': 0.6885245901639344, 'exp': 1.3047777301859638}
+▸Power Law K-test on In-Degree: {'p-value': 9.062114350761045e-21, 'test': 0.5901639344262295, 'exp': 3.112474730834865}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 2.495749487485952e-29, 'test': 0.6885245901639344, 'exp': 1.303355476000878}
+▸Power Law K-test on Out-Degree: {'p-value': 9.030607180554838e-25, 'test': 0.639344262295082, 'exp': 2.451931681077527}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 3.657511018767237e-16, 'test': 0.5245901639344263, 'exp': 1.2402749470663843}
+
+
+============ Shares and similar_S ============
+
+▸Number of nodes: 114 - Number of links:1194 - Size/Order ratio: 10.473684210526315
+▸Standard deviation: 28.589607394462927
+▸Mean: 20.94736842105263
+▸Median: 3.5
+▸Min: 1
+▸Max: 113
+▸Standard deviation in_degree: 14.459993524977193
+▸Mean in_degree: 10.473684210526315
+▸Median in_degree: 1.0
+▸Min in_degree: 0
+▸Max in_degree: 56
+▸Standard deviation out_degree: 14.360160854249724
+▸Mean out_degree: 10.473684210526315
+▸Median out_degree: 2.0
+▸Min out_degree: 0
+▸Max out_degree: 67
+▸Standard deviation weighted: 260717024385.79077
+▸Mean weighted: 68600902830.666664
+▸Median weighted: 214490404.5
+▸Min weighted: 31680
+▸Max weighted: 2205823939029
+▸Standard deviation in_degree weighted: 129301732360.2135
+▸Mean in_degree weighted: 34300451415.333332
+▸Median in_degree weighted: 107033982.5
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 1088627831732
+▸Standard deviation out_degree weighted: 131489688923.64528
+▸Mean out_degree weighted: 34300451415.333332
+▸Median out_degree weighted: 87150020.5
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 1117196107297
+▸Density: 0.09268747088961342
+▸Avg. Clustering coeff: 0.4063060425345647
+▸Transitivity: 0.5371963409462652
+▸Assortativity coefficient: -0.5059238862963813
+▸Assortativity weighted coefficient: -0.5059238862963813
+▸Pearson Assortativity coefficient: -0.50592388629638
+▸Average Shortest Path Length: 1.2877658748641516
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [114]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [65, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 1.8907904695917147e-97, 'test': 0.8596491228070176, 'exp': 4.804119371416244}
+▸Power Law K-test on Weighted Degree: {'p-value': 1.9491311389639392e-91, 'test': 0.8421052631578947, 'exp': 1.1770715796681108}
+▸Power Law K-test on In-Degree: {'p-value': 6.994010663655376e-28, 'test': 0.5087719298245614, 'exp': 1.663986826017565}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 7.482268448140777e-57, 'test': 0.7017543859649122, 'exp': 1.2278831699750374}
+▸Power Law K-test on Out-Degree: {'p-value': 7.043129755567496e-108, 'test': 0.8859649122807017, 'exp': 5.0547788997274195}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 1.5049633939173851e-40, 'test': 0.6052631578947368, 'exp': 1.3440764741009377}
+
+
+============ Shares and similar_N ============
+
+▸Number of nodes: 60 - Number of links:726 - Size/Order ratio: 12.1
+▸Standard deviation: 23.773795097403635
+▸Mean: 24.2
+▸Median: 16.0
+▸Min: 1
+▸Max: 102
+▸Standard deviation in_degree: 11.484337159801605
+▸Mean in_degree: 12.1
+▸Median in_degree: 8.0
+▸Min in_degree: 0
+▸Max in_degree: 50
+▸Standard deviation out_degree: 12.552157849018096
+▸Mean out_degree: 12.1
+▸Median out_degree: 8.0
+▸Min out_degree: 0
+▸Max out_degree: 52
+▸Standard deviation weighted: 40442031747.7793
+▸Mean weighted: 13661599119.833334
+▸Median weighted: 223549732.0
+▸Min weighted: 147524
+▸Max weighted: 250783219461
+▸Standard deviation in_degree weighted: 18734235212.51796
+▸Mean in_degree weighted: 6830799559.916667
+▸Median in_degree weighted: 199157339.0
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 111945370180
+▸Standard deviation out_degree weighted: 21898094201.485374
+▸Mean out_degree weighted: 6830799559.916667
+▸Median out_degree weighted: 11686025.5
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 138837849281
+▸Density: 0.20508474576271185
+▸Avg. Clustering coeff: 0.7352051005964728
+▸Transitivity: 0.45742622157716495
+▸Assortativity coefficient: -0.4742727629837447
+▸Assortativity weighted coefficient: -0.4742727629837447
+▸Pearson Assortativity coefficient: -0.4742727629837447
+▸Average Shortest Path Length: 1.7005649717514124
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [60]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [55, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 7.024081319417341e-47, 'test': 0.8333333333333334, 'exp': 3.9232867270084615}
+▸Power Law K-test on Weighted Degree: {'p-value': 1.700189221568975e-22, 'test': 0.6166666666666667, 'exp': 1.3041222921916868}
+▸Power Law K-test on In-Degree: {'p-value': 1.4449176906206088e-39, 'test': 0.7833333333333333, 'exp': 3.921741618022701}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 6.269104018628952e-20, 'test': 0.5833333333333333, 'exp': 1.3299813653997516}
+▸Power Law K-test on Out-Degree: {'p-value': 1.0012042253665116e-18, 'test': 0.5666666666666667, 'exp': 2.2803436277568223}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 7.024081319417341e-47, 'test': 0.8333333333333334, 'exp': 1.1890862966487794}
+
+
+============ Corp. Bonds and similar_S ============
+
+▸Number of nodes: 346 - Number of links:1312 - Size/Order ratio: 3.791907514450867
+▸Standard deviation: 25.071232009275004
+▸Mean: 7.583815028901734
+▸Median: 1.0
+▸Min: 1
+▸Max: 359
+▸Standard deviation in_degree: 8.453035392333785
+▸Mean in_degree: 3.791907514450867
+▸Median in_degree: 1.0
+▸Min in_degree: 0
+▸Max in_degree: 55
+▸Standard deviation out_degree: 18.585454669260116
+▸Mean out_degree: 3.791907514450867
+▸Median out_degree: 0.0
+▸Min out_degree: 0
+▸Max out_degree: 312
+▸Standard deviation weighted: 24890356029.58805
+▸Mean weighted: 4184018832.271676
+▸Median weighted: 6508972.0
+▸Min weighted: 8750
+▸Max weighted: 289403936877
+▸Standard deviation in_degree weighted: 13200040008.438066
+▸Mean in_degree weighted: 2092009416.135838
+▸Median in_degree weighted: 5054781.0
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 154851238653
+▸Standard deviation out_degree weighted: 12285906543.898872
+▸Mean out_degree weighted: 2092009416.135838
+▸Median out_degree weighted: 0.0
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 140905416450
+▸Density: 0.010991036273770629
+▸Avg. Clustering coeff: 0.12849331071382236
+▸Transitivity: 0.12350649990960935
+▸Assortativity coefficient: -0.6768658592115607
+▸Assortativity weighted coefficient: -0.6768658592115607
+▸Pearson Assortativity coefficient: -0.6768658592115605
+▸Average Shortest Path Length: 0.488958699840831
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [346]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [68, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 0.0, 'test': 0.953757225433526, 'exp': 3.68893448714804}
+▸Power Law K-test on Weighted Degree: {'p-value': 1.6381745881986855e-133, 'test': 0.630057803468208, 'exp': 1.357697009446405}
+▸Power Law K-test on In-Degree: {'p-value': 2.2342455291820793e-278, 'test': 0.8439306358381503, 'exp': 3.390988128104069}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 5.964776222548955e-151, 'test': 0.6647398843930635, 'exp': 1.4116648518400507}
+▸Power Law K-test on Out-Degree: {'p-value': 0.0, 'test': 0.9479768786127167, 'exp': 3.445808056443303}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 0.0, 'test': 0.9219653179190751, 'exp': 1.6074073592327593}
+
+
+============ Corp. Bonds and similar_N ============
+
+▸Number of nodes: 55 - Number of links:462 - Size/Order ratio: 8.4
+▸Standard deviation: 18.021603197778543
+▸Mean: 16.8
+▸Median: 9.0
+▸Min: 1
+▸Max: 77
+▸Standard deviation in_degree: 7.547666707484688
+▸Mean in_degree: 8.4
+▸Median in_degree: 6.0
+▸Min in_degree: 0
+▸Max in_degree: 33
+▸Standard deviation out_degree: 10.820183160943426
+▸Mean out_degree: 8.4
+▸Median out_degree: 4.0
+▸Min out_degree: 0
+▸Max out_degree: 46
+▸Standard deviation weighted: 13995448498.45102
+▸Mean weighted: 4827544396.836364
+▸Median weighted: 132737567.0
+▸Min weighted: 323598
+▸Max weighted: 76370506549
+▸Standard deviation in_degree weighted: 7424406714.556217
+▸Mean in_degree weighted: 2413772198.418182
+▸Median in_degree weighted: 68054334.0
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 38783421804
+▸Standard deviation out_degree weighted: 7751759439.909336
+▸Mean out_degree weighted: 2413772198.418182
+▸Median out_degree weighted: 26515610.0
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 42145643059
+▸Density: 0.15555555555555556
+▸Avg. Clustering coeff: 0.6825478626635597
+▸Transitivity: 0.37386609071274296
+▸Assortativity coefficient: -0.41018184976889716
+▸Assortativity weighted coefficient: -0.41018184976889716
+▸Pearson Assortativity coefficient: -0.41018184976889643
+▸Average Shortest Path Length: 1.6484848484848484
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [55]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [44, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 4.0818233511153214e-25, 'test': 0.6727272727272727, 'exp': 2.95298182924762}
+▸Power Law K-test on Weighted Degree: {'p-value': 5.157614375925195e-17, 'test': 0.5636363636363636, 'exp': 1.4647275437854432}
+▸Power Law K-test on In-Degree: {'p-value': 2.4526597091439373e-53, 'test': 0.8909090909090909, 'exp': 6.209450540050795}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 7.153590317834311e-16, 'test': 0.5454545454545454, 'exp': 1.484609456612957}
+▸Power Law K-test on Out-Degree: {'p-value': 2.1703419879258373e-38, 'test': 0.8, 'exp': 3.3727536476475146}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 8.802811848728307e-15, 'test': 0.5272727272727273, 'exp': 1.334867188185581}
+
+
+============ Funds_S ============
+
+▸Number of nodes: 67 - Number of links:754 - Size/Order ratio: 11.253731343283581
+▸Standard deviation: 24.04248300580513
+▸Mean: 22.507462686567163
+▸Median: 15.0
+▸Min: 1
+▸Max: 102
+▸Standard deviation in_degree: 11.857793310581876
+▸Mean in_degree: 11.253731343283581
+▸Median in_degree: 8.0
+▸Min in_degree: 0
+▸Max in_degree: 51
+▸Standard deviation out_degree: 12.252740520233901
+▸Mean out_degree: 11.253731343283581
+▸Median out_degree: 7.0
+▸Min out_degree: 0
+▸Max out_degree: 51
+▸Standard deviation weighted: 86917571362.23318
+▸Mean weighted: 32800211669.701492
+▸Median weighted: 2354010011.0
+▸Min weighted: 1777703
+▸Max weighted: 418652702254
+▸Standard deviation in_degree weighted: 44051376797.15873
+▸Mean in_degree weighted: 16400105834.850746
+▸Median in_degree weighted: 1018882205.0
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 205297725487
+▸Standard deviation out_degree weighted: 43050086301.55373
+▸Mean out_degree weighted: 16400105834.850746
+▸Median out_degree weighted: 1087151939.0
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 213354976767
+▸Density: 0.17051108095884215
+▸Avg. Clustering coeff: 0.6186612760384745
+▸Transitivity: 0.4559297742744536
+▸Assortativity coefficient: -0.4828086131772837
+▸Assortativity weighted coefficient: -0.4828086131772837
+▸Pearson Assortativity coefficient: -0.4828086131772824
+▸Average Shortest Path Length: 1.7048846675712348
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [67]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [58, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 1.5161206558543928e-17, 'test': 0.5223880597014925, 'exp': 2.290471514081272}
+▸Power Law K-test on Weighted Degree: {'p-value': 1.5161206558543928e-17, 'test': 0.5223880597014925, 'exp': 1.5149800692327502}
+▸Power Law K-test on In-Degree: {'p-value': 1.6290351479825558e-16, 'test': 0.5074626865671642, 'exp': 2.3210090623910538}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 1.6290351479825558e-16, 'test': 0.5074626865671642, 'exp': 1.520869981435689}
+▸Power Law K-test on Out-Degree: {'p-value': 3.1062483993324803e-62, 'test': 0.8805970149253731, 'exp': 6.894070604693938}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 1.2852875355085352e-18, 'test': 0.5373134328358209, 'exp': 1.4801420576627284}
+
+
+============ Funds_N ============
+
+▸Number of nodes: 54 - Number of links:543 - Size/Order ratio: 10.055555555555555
+▸Standard deviation: 20.660094534460377
+▸Mean: 20.11111111111111
+▸Median: 13.5
+▸Min: 1
+▸Max: 91
+▸Standard deviation in_degree: 8.739897165821562
+▸Mean in_degree: 10.055555555555555
+▸Median in_degree: 8.0
+▸Min in_degree: 1
+▸Max in_degree: 40
+▸Standard deviation out_degree: 12.111238531439799
+▸Mean out_degree: 10.055555555555555
+▸Median out_degree: 6.0
+▸Min out_degree: 0
+▸Max out_degree: 51
+▸Standard deviation weighted: 60075365164.19657
+▸Mean weighted: 24322599444.62963
+▸Median weighted: 1536599728.0
+▸Min weighted: 343768
+▸Max weighted: 358320373225
+▸Standard deviation in_degree weighted: 29883497658.54032
+▸Mean in_degree weighted: 12161299722.314816
+▸Median in_degree weighted: 1411489229.0
+▸Min in_degree weighted: 343768
+▸Max in_degree weighted: 169878971652
+▸Standard deviation out_degree weighted: 32817803658.6077
+▸Mean out_degree weighted: 12161299722.314816
+▸Median out_degree weighted: 29074250.0
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 188441401573
+▸Density: 0.18972746331236898
+▸Avg. Clustering coeff: 0.7533162694969441
+▸Transitivity: 0.36756444150693984
+▸Assortativity coefficient: -0.49719452844069933
+▸Assortativity weighted coefficient: -0.49719452844069933
+▸Pearson Assortativity coefficient: -0.4971945284406997
+▸Average Shortest Path Length: 1.6774982529699511
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [54]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [49, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 4.317377163566539e-15, 'test': 0.537037037037037, 'exp': 2.256770315973622}
+▸Power Law K-test on Weighted Degree: {'p-value': 3.9713484539351916e-29, 'test': 0.7222222222222222, 'exp': 1.3929193110568354}
+▸Power Law K-test on In-Degree: {'p-value': 4.317377163566539e-15, 'test': 0.537037037037037, 'exp': 2.6961184641020344}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 2.210547031204938e-17, 'test': 0.5740740740740741, 'exp': 1.4910117539048335}
+▸Power Law K-test on Out-Degree: {'p-value': 6.0776019731232e-52, 'test': 0.8888888888888888, 'exp': 6.9248712970694495}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 6.311433999152762e-33, 'test': 0.7592592592592593, 'exp': 1.1865945873493657}
+
+
+============ Other_S ============
+
+▸Number of nodes: 56 - Number of links:448 - Size/Order ratio: 8.0
+▸Standard deviation: 17.4693609336052
+▸Mean: 16.0
+▸Median: 8.0
+▸Min: 1
+▸Max: 81
+▸Standard deviation in_degree: 9.439657984119068
+▸Mean in_degree: 8.0
+▸Median in_degree: 3.0
+▸Min in_degree: 0
+▸Max in_degree: 42
+▸Standard deviation out_degree: 8.154753215150045
+▸Mean out_degree: 8.0
+▸Median out_degree: 4.5
+▸Min out_degree: 0
+▸Max out_degree: 39
+▸Standard deviation weighted: 62417384.78394406
+▸Mean weighted: 26819926.035714287
+▸Median weighted: 1163855.5
+▸Min weighted: 15
+▸Max weighted: 290269270
+▸Standard deviation in_degree weighted: 34552003.27455787
+▸Mean in_degree weighted: 13409963.017857144
+▸Median in_degree weighted: 138064.0
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 146755590
+▸Standard deviation out_degree weighted: 33246384.54794612
+▸Mean out_degree weighted: 13409963.017857144
+▸Median out_degree weighted: 494142.5
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 155520906
+▸Density: 0.14545454545454545
+▸Avg. Clustering coeff: 0.6491277007304309
+▸Transitivity: 0.5180837563451777
+▸Assortativity coefficient: -0.4126751595708323
+▸Assortativity weighted coefficient: -0.4126751595708323
+▸Pearson Assortativity coefficient: -0.4126751595708327
+▸Average Shortest Path Length: 1.7019480519480519
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [56]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [47, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 5.0584164545646153e-42, 'test': 0.8214285714285714, 'exp': 4.354811808050593}
+▸Power Law K-test on Weighted Degree: {'p-value': 1.8016653105416418e-13, 'test': 0.5, 'exp': 1.41294917611665}
+▸Power Law K-test on In-Degree: {'p-value': 3.3797874320905427e-31, 'test': 0.7321428571428571, 'exp': 3.225632862742936}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 1.1561202498380788e-21, 'test': 0.625, 'exp': 1.4862143845563167}
+▸Power Law K-test on Out-Degree: {'p-value': 5.0584164545646153e-42, 'test': 0.8214285714285714, 'exp': 4.402518316595279}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 1.1564064145728484e-16, 'test': 0.5535714285714286, 'exp': 1.4686022629134827}
+
+
+============ Other_N ============
+
+▸Number of nodes: 30 - Number of links:125 - Size/Order ratio: 4.166666666666667
+▸Standard deviation: 8.553102101317133
+▸Mean: 8.333333333333334
+▸Median: 5.0
+▸Min: 1
+▸Max: 28
+▸Standard deviation in_degree: 3.9756201472921875
+▸Mean in_degree: 4.166666666666667
+▸Median in_degree: 2.5
+▸Min in_degree: 0
+▸Max in_degree: 13
+▸Standard deviation out_degree: 4.906345098158324
+▸Mean out_degree: 4.166666666666667
+▸Median out_degree: 1.0
+▸Min out_degree: 0
+▸Max out_degree: 16
+▸Standard deviation weighted: 8511555.876638774
+▸Mean weighted: 3758615.6
+▸Median weighted: 130747.0
+▸Min weighted: 82
+▸Max weighted: 38490929
+▸Standard deviation in_degree weighted: 4018796.8020994985
+▸Mean in_degree weighted: 1879307.8
+▸Median in_degree weighted: 31009.0
+▸Min in_degree weighted: 0
+▸Max in_degree weighted: 16627541
+▸Standard deviation out_degree weighted: 4565690.923407522
+▸Mean out_degree weighted: 1879307.8
+▸Median out_degree weighted: 27211.0
+▸Min out_degree weighted: 0
+▸Max out_degree weighted: 21863388
+▸Density: 0.14367816091954022
+▸Avg. Clustering coeff: 0.4339146640266892
+▸Transitivity: 0.37474332648870634
+▸Assortativity coefficient: -0.23224456879273078
+▸Assortativity weighted coefficient: -0.23224456879273078
+▸Pearson Assortativity coefficient: -0.23224456879273003
+▸Average Shortest Path Length: 1.3413793103448275
+▸Diameter: inf
+▸Is DAG?: False
+▸Weakly Connected Components: [30]
+▸Is Weakly connected?:  False
+▸Strongly Connected Components: [18, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+▸Is Strongly connected?:  True
+▸Isolated nodes:[]
+▸Power Law K-test on Degree: {'p-value': 5.088705888288546e-17, 'test': 0.7333333333333334, 'exp': 1.6663497790597064}
+▸Power Law K-test on Weighted Degree: {'p-value': 5.677707708943207e-19, 'test': 0.7666666666666667, 'exp': 1.932230572292442}
+▸Power Law K-test on In-Degree: {'p-value': 1.8467310029604193e-07, 'test': 0.5, 'exp': 2.092140201952142}
+▸Power Law K-test on Weighted In-Degree: {'p-value': 3.3805530070750772e-12, 'test': 0.6333333333333333, 'exp': 1.7648861270679976}
+▸Power Law K-test on Out-Degree: {'p-value': 3.6454831616388266e-21, 'test': 0.8, 'exp': 4.676027850346754}
+▸Power Law K-test on Weighted Out-Degree: {'p-value': 5.677707708943207e-19, 'test': 0.7666666666666667, 'exp': 2.0997198441656737}
