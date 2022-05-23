@@ -1,5 +1,4 @@
-# SOCIAL NETWORK ANALYSIS ON POST TRADE DATA: CENTRALITY, SCALE FREE BEHAVIOR AND RESILIENCY OF THE NETWORKS OVER TIME 
-
+# Social Network Analysis on post trade data: centrality, scale free behavior and resiliency of the networks over time
 
 ### 1 Introduction 
 ### 2 Literature Review 
